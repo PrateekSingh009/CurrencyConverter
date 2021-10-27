@@ -1,3 +1,3 @@
 # CurrencyConverter
 
-Converter Application
+Converter Application for android
